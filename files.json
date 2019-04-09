@@ -9,7 +9,7 @@
       "nome": "d3d9.dll",
       "hash": "b8524cbe713d5da6cc5737374410d84d",
       "downloadurl": "",
-      "downloadtype": "torrent"
+      "downloadtype": "url"
     },
     {
       "nome": "suddenattack.exe",
@@ -20,8 +20,8 @@
     {
       "nome": "cshell.dll",
       "hash": "5397364bf88ce8f01d138b6816f1b6e9",
-      "downloadurl": "",
-      "downloadtype": "url"
+      "downloadurl": "magnet:?xt=urn:btih:F5194A9F0E39075F6B60386A9E67DCF48663B38C&dn=CShell.dll&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce",
+      "downloadtype": "torrent"
     }
   ]
 }
