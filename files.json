@@ -1,19 +1,24 @@
 {
+  "versao": [
+    {
+      "cod": "1.0.0"
+    }
+  ],
   "arquivos": [
-      {
-        "nome": "d3d9.dll",
-        "hash": "000",
-        "downloadurl": ""
-      },
-      {
-        "nome": "suddenattack.exe",
-        "hash": "000",
-        "downloadurl": ""
-      },
-      {
-        "nome": "cshell.dll",
-        "hash": "000",
-        "downloadurl": ""
-      }
+    {
+      "nome": "d3d9.dll",
+      "hash": "b8524cbe713d5da6cc5737374410d84d",
+      "downloadurl": ""
+    },
+    {
+      "nome": "suddenattack.exe",
+      "hash": "14fe172165c97b6a0ee9ad77382d08b2",
+      "downloadurl": ""
+    },
+    {
+      "nome": "cshell.dll",
+      "hash": "5397364bf88ce8f01d138b6816f1b6e9",
+      "downloadurl": ""
+    }
   ]
 }
