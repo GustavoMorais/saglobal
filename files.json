@@ -1,0 +1,19 @@
+{
+  "arquivos": [
+      {
+        "nome": "d3d9.dll",
+        "hash": "000",
+        "downloadurl": ""
+      },
+      {
+        "nome": "suddenattack.exe",
+        "hash": "000",
+        "downloadurl": ""
+      },
+      {
+        "nome": "cshell.dll",
+        "hash": "000",
+        "downloadurl": ""
+      }
+  ]
+}
